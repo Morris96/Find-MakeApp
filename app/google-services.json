@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766439024099",
+    "firebase_url": "https://find-makeapp-cbd67.firebaseio.com",
+    "project_id": "find-makeapp-cbd67",
+    "storage_bucket": "find-makeapp-cbd67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766439024099:android:986c4be02aaf09157a2cd6",
+        "android_client_info": {
+          "package_name": "com.example.findmakeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766439024099-ahmujg23qstu6vl89ano4h3e5e03b79i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmakeapp",
+            "certificate_hash": "8a9c47767438811081283c5cf0519bc5635b9d83"
+          }
+        },
+        {
+          "client_id": "766439024099-vk163m32lleas24h8d7soslq760np0r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3o-6LVR4r7EnXp3qwQ-He9DMM1ni_X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766439024099-vk163m32lleas24h8d7soslq760np0r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
